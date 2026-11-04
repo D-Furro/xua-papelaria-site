@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /carrinho
+Disallow: /checkout
+Disallow: /pedido/
+Disallow: /busca
+Disallow: /admin
+
+Sitemap: https://papelariaebazarxua.com.br/sitemap.xml
